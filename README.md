@@ -1,3 +1,4 @@
+
 # 👩🏻‍💻 Lucas Moreira Nunes
 
 **`Engenheiro da Computação em Formação`**
@@ -43,10 +44,7 @@ Olá! Me chamo Lucas Nunes, sou entusiasta de tecnologia e atualmente focado em 
   <tr>
     <td>
       <img 
-        height="180em" 
-        alt="Top Languages" 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lmnunes2002&theme=tokyonight" 
-      />
+	height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lmnunes2002&theme=tokyonight" /> 
     </td>
     <td>
       <img 
