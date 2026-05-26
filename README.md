@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👩🏻‍💻 Lucas Moreira Nunes
 
-<!--
-**lmnunes2002/lmnunes2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Engenheiro da Computação em Formação`**
 
-Here are some ideas to get you started:
+Olá! Me chamo Lucas Nunes, sou entusiasta de tecnologia e atualmente focado em aprimorar minhas habilidades nas áreas da computação. Adoro transformar ideias em código e estou constantemente aprendendo novas ferramentas para criar soluções eficientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+    <a href="https://github.com/lmnunes2002?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/lmnunes2002?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/lmnunes2002?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/lmnunes2002?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="C" title="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img align="left" alt="CPP" title="CPP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+<br/>
+<br/>
+
+---
+
+### 📊 Estatísticas
+
+<table border="0">
+  <tr>
+    <td>
+      <img 
+        height="180em" 
+        alt="Top Languages" 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lmnunes2002&theme=tokyonight" 
+      />
+    </td>
+    <td>
+      <img 
+        height="180em" 
+        alt="GitHub Streak" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=lmnunes2002&theme=tokyonight" 
+      />
+    </td>
+  </tr>
+</table>
